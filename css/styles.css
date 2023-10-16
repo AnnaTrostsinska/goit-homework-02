@@ -74,8 +74,7 @@ body {
     line-height: 1.17
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    width: 71px;
-    color: #2E2F42;
+    color: #4d5ae5;
 }
 
 .logo-span {
@@ -85,7 +84,6 @@ body {
     line-height: 1.16
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    width: 44px;
     color: #4D5AE5;
 }
 
@@ -105,9 +103,7 @@ body {
 }
 
 .main-heading {
-    width: 1440px;
     height: 600px;
-    flex-shrink: 0; 
     background-color: #2E2F42;
     text-align: center;
     font-family: 'Roboto', sans-serif;
@@ -115,7 +111,6 @@ body {
     font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.02em;
-    padding-top: 188px;
     color: var(--WHITE, #FFFFFF);
 }
 .third-heading {
@@ -124,7 +119,6 @@ body {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    width: 264px;
     color: #2E2F42;
 }
 
@@ -161,5 +155,9 @@ body {
 }
 
 .our-benefits-section {
-    background-color:  #2e2f42;
+    background-color: #F4F4FD;
+}
+
+.our-portfolio {
+    list-style-type: none;
 }
