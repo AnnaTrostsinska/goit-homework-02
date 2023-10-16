@@ -157,9 +157,24 @@ body {
 }
 
 .our-benefits-section {
-    background-color: #F4F4FD;
+    background-color: #FFFFFF;
 }
 
 .our-portfolio {
     list-style-type: none;
+}
+
+.second-heading {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11; 
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
+
+.our-team-section {
+    background: #F4F4FD;
 }
