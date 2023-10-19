@@ -19,6 +19,11 @@ button {
     background: #4D5AE5;
 }
 
+.button:hover,
+.button:focus {
+    background: #404BBF;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #FFFFFF;
@@ -82,7 +87,7 @@ body {
 
 .main-title {
     height: 600px;
-    background-color: #2E2F42;
+    background-color: #2e2f42;
     text-align: center;
     font-family: 'Roboto', sans-serif;
     font-size: 56px;
@@ -92,10 +97,7 @@ body {
     color: var(--WHITE, #FFFFFF);
 }
 
-.button:hover,
-.button:focus {
-    background: #404BBF;
-}
+
 
 .mail {
     text-decoration: none;
