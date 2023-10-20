@@ -120,6 +120,16 @@ body {
     color: #434455;
 }
 
+.mail:hover,
+.mail:focus {
+    color: #404BBF;
+}
+
+.tel-number:hover,
+.tel-number:focus {
+    color: #404BBF;
+}
+
 /* ============== HERO STYLES ============== */
 
 /* ============== BENEFITS STYLES ============== */
@@ -189,7 +199,7 @@ body {
     line-height: 1.17; 
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #F4F4FD;
+    color: #4d5ae5;
 }
 
 .page-footer {
