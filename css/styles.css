@@ -134,6 +134,10 @@ body {
 
 /* ============== BENEFITS STYLES ============== */
 
+.benefits {
+    background-color: #2e2f42;
+}
+
 .benefits-list-title {
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
