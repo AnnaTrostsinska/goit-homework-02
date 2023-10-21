@@ -100,8 +100,6 @@ body {
     color: var(--WHITE, #FFFFFF);
 }
 
-
-
 .mail {
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
@@ -132,6 +130,10 @@ body {
 .tel-number:hover,
 .tel-number:focus {
     color: #404BBF;
+}
+
+.hero{
+    background-color: #2e2f42; 
 }
 
 /* ============== HERO STYLES ============== */
