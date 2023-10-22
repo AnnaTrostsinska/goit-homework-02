@@ -85,6 +85,10 @@ body {
     color: #404bbf;
 }
 
+.portfolio-list {
+    background-color: #FFFFFF;
+}
+
 /* ============== HEADER STYLES ============== */
 
 /* ============== HERO STYLES ============== */
@@ -194,16 +198,14 @@ body {
 }
 
 .our-team {
-    background: #F4F4FD;
+    background-color: #F4F4FD;
 }
 
 /* ============== OUR TEAM ============== */
 
 /* ============== OUR PORTFOLIO ============== */
 
-.portfolio-list {
-    background-color: #FFFFFF;
-}
+
 
 /* ============== OUR PORTFOLIO ============== */
 
